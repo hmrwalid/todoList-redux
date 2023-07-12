@@ -1,0 +1,32 @@
+.app {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  background-color: floralwhite;
+  
+}
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 20px;
+  justify-content: space-between;
+  margin: 15px;
+  padding: 10px 10px;
+  background-color:#fff;
+}
+.ahla {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin: 0 auto;
+  font: 2.6rem/1.25 Arial, sans-serif;
+  padding: 50px;
+  background-color: #a129b9;
+  /*background-image: url('https://miro.medium.com/max/8576/1*o-9xgkkyBgkhnBVN_Wxs6Q.png');*/
+}
+.button{
+  padding: 0 30px ;
+  margin: 4px 10px;
+}
+
+
